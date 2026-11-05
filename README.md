@@ -61,7 +61,7 @@ Pins, timers, ADC and interrupts were configured in **STM32CubeMX** (`SmartContr
 
 ## Hardware
 
-<img width="900" height="500" alt="wokwi" src="https://github.com/user-attachments/assets/0bd5a81a-47b6-4176-a9c7-5f380b2dcef4" />
+<img width="900" height="500" alt="wokwi" src="https://github.com/user-attachments/assets/bc3664c1-522a-45d1-a07c-cd1eddfc67eb" />
 
 
 
