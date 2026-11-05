@@ -36,7 +36,7 @@ Pins, timers, ADC and interrupts were configured in **STM32CubeMX** (`SmartContr
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="40%">
 
 | Peripheral | Configuration |
 |:---:|:---|
@@ -49,7 +49,7 @@ Pins, timers, ADC and interrupts were configured in **STM32CubeMX** (`SmartContr
 | **SysTick** | 1 ms tick, set in code |
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="60%">
 
 <img width="100%" alt="CubeMX pinout" src="https://github.com/user-attachments/assets/8b95c915-74a0-4d79-ae25-b78152facc9f" />
 
