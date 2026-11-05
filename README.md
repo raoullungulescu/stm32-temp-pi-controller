@@ -51,7 +51,7 @@ Pins, timers, ADC and interrupts were configured in **STM32CubeMX** (`SmartContr
 </td>
 <td valign="top" width="60%">
 
-<img width="100%" alt="CubeMX pinout" src="https://github.com/user-attachments/assets/8b95c915-74a0-4d79-ae25-b78152facc9f" />
+<img width="100%" alt="CubeMX pinout" src="https://github.com/user-attachments/assets/fe801ecd-baa8-4454-a721-444292f2bc99" />
 
 </td>
 </tr>
@@ -62,6 +62,8 @@ Pins, timers, ADC and interrupts were configured in **STM32CubeMX** (`SmartContr
 ## Hardware
 
 <img width="900" height="500" alt="wokwi" src="https://github.com/user-attachments/assets/0bd5a81a-47b6-4176-a9c7-5f380b2dcef4" />
+
+
 
 | Component | Role | Interface / Pin |
 |:---|:---|:---|
